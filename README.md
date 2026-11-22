@@ -1,81 +1,85 @@
 <div align="center">
 
-<h1>Muksitul Ziad</h1>
+# Muksitul Ziad
 
-<p>
-  <strong>Robotics Software &amp; Systems Engineer</strong><br>
-  Autonomous Ground Rovers · Unmanned Aerial Vehicles · Multi-Robot Systems
-</p>
+**Robotics Software & Systems · Autonomous Ground & Aerial Robots**
 
-<p>
-  <strong>Software Team Lead — Mars Rover Team</strong><br>
-  AIUB Robotics Crew · American International University-Bangladesh (AIUB)
-</p>
+Software Team Lead, Mars Rover Team  
+**AIUB Robotics Crew · American International University-Bangladesh**
 
-<p>
-  <a href="https://github.com/muksitulziad"><img src="https://img.shields.io/badge/GitHub-muksitulziad-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Uncomment and add your links below when ready:
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  -->
-</p>
+[About](#about) · [Project directions](#project-directions) · [Engineering toolkit](#engineering-toolkit) · [Research interests](#research-interests)
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-E66B0B?style=flat-square)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-264C3B?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
----
+## About
 
-### Overview
+I work on robotics software and system integration for ground rovers and aerial robots. I am interested in how autonomy, perception, control, and communication fit together—and what happens when the assumptions behind them stop holding.
 
-I am a **Robotics Software & Systems Engineer** specializing in end-to-end autonomy, perception, control, and resilient communication architectures for ground rovers and unmanned aerial vehicles (UAVs).
+As **Software Team Lead for the Mars Rover Team at AIUB Robotics Crew**, I lead software integration for rover control, wireless communication, and remote operation. My focus is the interaction between onboard software, communication links, and the ground station.
 
-As **Software Team Lead** for the Mars Rover Team at **AIUB Robotics Crew**, I lead the architecture and integration of real-time rover control stacks, long-range wireless telemetry, and low-latency remote operation interfaces. Beyond planetary rovers, my engineering and research span autonomous UAV flight, decentralized swarm coordination, inter-drone networking, and counter-UAS interception systems—with a focus on **reliable autonomy, coordinated multi-robot behavior, and performance under real-world hardware and communication constraints**.
+My project experience spans autonomous drones, swarm coordination, inter-drone communication, and drone interception systems. I use **ROS 2, Gazebo, and ArduPilot** to develop and evaluate robotic systems. My research interests center on reliable field autonomy and coordinated multi-robot behavior under practical sensing, computing, and connectivity constraints.
 
----
+## Project directions
 
-### Systems & Engineering Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Ground &amp; Planetary Robotics</strong>
-      <ul>
-        <li><strong>Rover Software Architecture:</strong> Modular ROS 2 integration for real-time locomotion, manipulator control, and system diagnostics.</li>
-        <li><strong>Telemetry &amp; Remote Operations:</strong> High-reliability wireless communication links and low-latency operator control interfaces.</li>
-        <li><strong>Simulation &amp; Field Validation:</strong> Terrain-aware testing and hardware-in-the-loop validation using Gazebo and physical rover platforms.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Aerial Autonomy &amp; Multi-Robot Systems</strong>
-      <ul>
-        <li><strong>Autonomous UAV Pipelines:</strong> Guidance, navigation, and control (GNC) built on ArduPilot and ROS 2.</li>
-        <li><strong>Swarm Coordination:</strong> Decentralized multi-agent behavior and resilient inter-drone communication architectures.</li>
-        <li><strong>Autonomous Interception:</strong> Real-time target detection, state estimation, and trajectory planning for counter-UAS systems.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### Research & Technical Competencies
-
-| Domain | Methods, Algorithms & Frameworks |
+| Area | Engineering and research questions |
 | :--- | :--- |
-| **Navigation & Motion Planning** | LiDAR & Visual SLAM, AMCL, Occupancy Grids, Pose Graphs, A*, D* Lite, Hybrid A*, RRT*, PRM, DWA, MPPI, Terrain-Aware Planning, Multi-Robot Exploration |
-| **Control & Robotics Math** | State-Space Modeling, PID, LQR / LQG, MPC, System Identification, Lyapunov Stability, Trajectory Optimization, SO(3) / SE(3), Rigid-Body Dynamics, Forward & Inverse Kinematics, Jacobians |
-| **Sensor Fusion & Estimation** | Kalman Filters (KF, EKF, UKF), Error-State EKF (ES-EKF), Particle Filters, IMU Preintegration, Factor Graphs, Multi-Sensor Fusion (Camera, LiDAR, IMU, GNSS, Encoders) |
-| **Computer Vision & AI** | Camera Calibration, Stereo Depth, Visual Odometry, YOLO, Semantic Segmentation, ByteTrack, DeepSORT, ONNX, TensorRT, PyTorch, CNNs, Transformers, Reinforcement & Imitation Learning |
-| **Research & Benchmarking** | Literature Review, Baseline Reproduction, Ablation Studies, Repeated Field Trials, Statistical Evaluation, Reproducible Benchmarks, LaTeX, Zotero |
+| **Rover software & remote operation** | Integrating control, telemetry, and operator interfaces; examining responsiveness and recovery when connections degrade. |
+| **Drone autonomy & coordination** | Connecting onboard autonomy with inter-drone communication and coordinated behavior. |
+| **Simulation & evaluation** | Building repeatable scenarios, documenting assumptions, and distinguishing simulation findings from hardware validation. |
+| **Public robotics codebase** | Organizing reusable implementations, simulation examples, and research notes for rovers and aerial robots. |
 
----
+<!-- Replace project names with direct repository/demo/report links as those artifacts become available. Do not add links to nonexistent repositories or imply that a planned study is complete. -->
 
-### Technical Stack
+## Engineering toolkit
 
-| Category | Technologies & Tools |
+| Area | Tools across my project work and study |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-DF5728?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Robotics & Simulation** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-E66B0B?style=flat-square) ![Nav2](https://img.shields.io/badge/Nav2-0B7285?style=flat-square) ![tf2](https://img.shields.io/badge/tf2-4353A3?style=flat-square) ![RViz2](https://img.shields.io/badge/RViz2-304E80?style=flat-square) ![ArduPilot](https://img.shields.io/badge/ArduPilot-1F2937?style=flat-square) |
-| **Embedded & Edge Compute** | ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
-| **Hardware, PCB & VLSI** | ![NI Multisim](https://img.shields.io/badge/NI_Multisim-006845?style=flat-square) ![Proteus](https://img.shields.io/badge/Proteus-184A83?style=flat-square) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B31B1B?style=flat-square) |
-| **Infrastructure & Web** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Robotics & simulation** | ROS 2 · Gazebo · ArduPilot · Nav2 · TF2 · RViz2 |
+| **Programming** | C++ · Python; additional exposure to Java, JavaScript, and R |
+| **Embedded platforms** | Jetson Orin Nano · ESP32 · STM32 · Arduino |
+| **Development & integration** | Linux · Git · CMake · Docker · GitHub Actions |
+| **Interfaces & electronics** | HTML/CSS · Multisim · Proteus · EasyEDA · Cadence Virtuoso |
+
+My current development priority is strengthening **modern C++ and Python**, with particular attention to debugging, testing, memory safety, and maintainable code.
+
+## Research interests
+
+- **Reliable autonomy:** navigation, localization, and recovery under imperfect sensing and communication.
+- **Multi-robot systems:** coordination, information sharing, and the effect of network constraints on collective behavior.
+- **Embedded perception:** detection, tracking, and the accuracy–latency trade-offs of onboard inference.
+- **System evaluation:** reproducible experiments, meaningful baselines, failure analysis, and clear separation of measured results from assumptions.
+
+<details>
+<summary><strong>Technical topics I am developing further</strong></summary>
+
+These are study and investigation areas, not a claim of equal proficiency in every method.
+
+| Area | Topics |
+| :--- | :--- |
+| **Navigation & planning** | LiDAR/visual SLAM, occupancy grids, AMCL, graph and sampling-based planning, local planning, terrain-aware navigation, multi-robot exploration |
+| **Control & estimation** | PID, state-space methods, LQR, MPC, trajectory tracking, Kalman filtering, error-state estimation, sensor fusion, and factor-graph methods |
+| **Perception** | Camera calibration, stereo depth, visual odometry, object detection, segmentation, tracking, and embedded inference deployment |
+| **Robotics mathematics** | Rigid-body transformations, SO(3)/SE(3), kinematics, Jacobians, and optimization |
+| **Research practice** | Literature review, baseline reproduction, ablations, repeated trials, statistical evaluation, LaTeX, and reference management |
+
+</details>
+
+## What I want to share here
+
+My aim is to publish code that another person can understand, run, and evaluate. For substantial work, that means a clear contribution statement, setup instructions, test conditions, and documented limitations. I credit collaborators and upstream projects, and I distinguish proposed work, reproductions, and original findings.
+
+I am preparing a public **`robotics-research-library`** to collect reusable code and research notes. Complete systems will have their own repositories when their code and documentation are ready to share.
+
+## Collaboration
+
+I welcome discussions with engineers, students, and researchers working on rover systems, aerial robotics, simulation, and robot communication. I am particularly interested in projects where system integration and careful evaluation matter as much as the algorithm itself.
+
+[Explore my repositories](https://github.com/muksitulziad?tab=repositories)
+
+<!-- Add your verified professional email, LinkedIn, website, and academic profile here when ready. Do not publish placeholder contact links. -->
