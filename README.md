@@ -2,7 +2,12 @@
 
 <p align="center">
   <strong>Robotics &amp; Autonomous Systems · System Design</strong><br>
-  Mars Rover Team Software Lead · AIUB Robotics Crew<br>
+  <strong>Research Focus</strong> · Ground Robotics &amp; Drone Autonomy
+</p>
+
+<p align="center">
+  <strong>Software Team Lead · Mars Rover Team</strong><br>
+  AIUB Robotics Crew<br>
   American International University-Bangladesh (AIUB)
 </p>
 ### About Me
