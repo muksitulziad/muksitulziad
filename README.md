@@ -102,9 +102,7 @@ Beyond planetary rovers, my project experience spans autonomous drones, multi-ag
 | **Development & Integration** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Interfaces & Electronics** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Multisim](https://img.shields.io/badge/Multisim-006845?style=flat-square) ![Proteus](https://img.shields.io/badge/Proteus-184A83?style=flat-square) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B31B1B?style=flat-square) |
 
-> **Current Engineering Priority:** Strengthening **modern C++ and Python** for real-time robotics—with deliberate focus on deterministic debugging, automated testing, memory safety, and maintainable system architecture.
 
----
 
 
 
