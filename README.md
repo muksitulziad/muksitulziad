@@ -10,7 +10,7 @@
 
 
 <p>
-  <a href="https://github.com/muksitulziad"><img src="https://img.shields.io/badge/GitHub-muksitulziad-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
   <img src="https://img.shields.io/badge/Gazebo-E66B0B?style=flat-square" alt="Gazebo" />
   <img src="https://img.shields.io/badge/ArduPilot-264C3B?style=flat-square" alt="ArduPilot" />
