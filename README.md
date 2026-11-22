@@ -1,10 +1,10 @@
 <h1 align="center">Muksitul Ziad</h1>
 
 <p align="center">
-  <strong>Robotics &amp; Autonomous Systems</strong><br>
-  CSE Undergraduate · University Rover Challenge Software Lead · Bangladesh
+  <strong>Robotics &amp; Autonomous Systems · System Design</strong><br>
+  Mars Rover Team Software Lead · AIUB Robotics Crew<br>
+  American International University-Bangladesh (AIUB)
 </p>
-
 ### About Me
 
 I develop software for ground rovers and autonomous drones, with a focus on navigation, perception, and reliable communication. As software team lead for our University Rover Challenge team, I lead integration across the rover’s ROS 2 stack, wireless link, and base-station dashboard.
