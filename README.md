@@ -12,9 +12,12 @@
 </p>
 ### About Me
 
-I develop software for ground rovers and autonomous drones, with a focus on navigation, perception, and reliable communication. As software team lead for our University Rover Challenge team, I lead integration across the rover’s ROS 2 stack, wireless link, and base-station dashboard.
+I am a **Robotics Software & Systems Engineer** specializing in end-to-end autonomy, perception, control, and resilient communication architectures for ground rovers and unmanned aerial vehicles (UAVs). 
 
-I’m developing multi-drone experiments in Gazebo and ArduPilot to study how communication delays and packet loss affect coordination. I’m also building a robotics research library of C++ and Python implementations, simulation setups, and reproducible experiments.
+Currently serving as the **Software Team Lead** for the Mars Rover Team at **AIUB Robotics Crew**, I architect and integrate real-time rover control stacks, long-range wireless telemetry, and low-latency remote operation interfaces. My broader engineering work spans autonomous UAVs, decentralized swarm coordination, inter-drone networking, and counter-UAS interception systems.
+
+- **Core Focus:** Reliable field autonomy, multi-robot coordination, and real-time system performance under harsh real-world constraints.
+- **Tech Stack:** `ROS 2` · `Gazebo` · `ArduPilot` · `Computer Vision` · `Embedded Systems` · `Wireless Telemetry`
 
 ### 🛠️ Languages & Tools
 
