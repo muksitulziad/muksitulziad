@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muksitul Ziad</h1>
+<h1 align="center">Muksitul Ziad</h1>
 
 <p align="center">
-  <strong>Robotics & Autonomous Systems · URC Software Team Lead</strong><br>
-  CSE Undergraduate from Bangladesh 🇧🇩
+  <strong>Robotics &amp; Autonomous Systems</strong><br>
+  CSE Undergraduate · University Rover Challenge Software Lead · Bangladesh
 </p>
 
-### 🤖 About Me
+### About Me
 
-- 🔭 I lead software integration for our **University Rover Challenge** team, working on ROS 2, rover-to-base communication, and the operator dashboard.
-- 🚁 I’m developing **multi-drone simulations** with Gazebo and ArduPilot to study coordination under unreliable communication.
-- 📚 I’m organizing **`robotics-research-library`** to share C++ and Python implementations, simulation setups, and reproducible experiments.
-- 🧭 My research interests include **field robotics, sensor fusion, and multi-robot autonomy**.
-- 🤝 I’m open to collaborating on **ground rover navigation, aerial autonomy, and open-source robotics**.
+I develop software for ground rovers and autonomous drones, with a focus on navigation, perception, and reliable communication. As software team lead for our University Rover Challenge team, I lead integration across the rover’s ROS 2 stack, wireless link, and base-station dashboard.
+
+I’m developing multi-drone experiments in Gazebo and ArduPilot to study how communication delays and packet loss affect coordination. I’m also building a robotics research library of C++ and Python implementations, simulation setups, and reproducible experiments.
 
 ### 🛠️ Languages & Tools
 
@@ -23,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-Modern C++17/20, OOP, STL, RAII, templates, concurrency, data structures and algorithms, NumPy, SciPy, pandas, Matplotlib, and Eigen.
+
 
 **Robotics & Simulation**
 
@@ -34,7 +32,7 @@ Modern C++17/20, OOP, STL, RAII, templates, concurrency, data structures and alg
 ![RViz2](https://img.shields.io/badge/RViz2-304E80?style=flat-square)
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-1F2937?style=flat-square)
 
-ROS 2 integration, DDS/QoS, URDF/Xacro, `ros2_control`, `rosbag2`, MATLAB/Simulink, NVIDIA Isaac Sim, ArduPilot and PX4 SITL, hardware-in-the-loop testing, and sim-to-real evaluation.
+
 
 **Embedded Systems**
 
@@ -43,7 +41,6 @@ ROS 2 integration, DDS/QoS, URDF/Xacro, `ros2_control`, `rosbag2`, MATLAB/Simuli
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-426B00?style=flat-square&logo=nvidia&logoColor=white)
 
-GPIO, interrupts, timers, PWM, ADC, DMA, UART, I²C, SPI, CAN/CAN FD, MAVLink, micro-ROS, FreeRTOS, motor control, encoders, watchdogs, and failsafes.
 
 **Circuit Simulation, PCB & VLSI**
 
@@ -52,7 +49,6 @@ GPIO, interrupts, timers, PWM, ADC, DMA, UART, I²C, SPI, CAN/CAN FD, MAVLink, m
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white)
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B31B1B?style=flat-square)
 
-Circuit simulation with Multisim and Proteus, PCB design with EasyEDA, and VLSI design with Cadence Virtuoso.
 
 **Web Development**
 
@@ -69,7 +65,6 @@ Circuit simulation with Multisim and Proteus, PCB design with EasyEDA, and VLSI 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Bash, SSH, GCC/Clang, GDB, pytest, GoogleTest, sanitizers, profiling, CI, and unit, integration, and regression testing.
 
 ### 🧭 Robotics & Research Skills
 
