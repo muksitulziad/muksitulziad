@@ -8,13 +8,6 @@
   American International University-Bangladesh (AIUB)
 </p>
 
-<p>
-  <a href="#about">About</a> ·
-  <a href="#systems-and-project-directions">Systems &amp; Directions</a> ·
-  <a href="#research-interests">Research Interests</a> ·
-  <a href="#engineering-toolkit">Engineering Toolkit</a> ·
-  <a href="#open-source-and-collaboration">Code &amp; Collaboration</a>
-</p>
 
 <p>
   <a href="https://github.com/muksitulziad"><img src="https://img.shields.io/badge/GitHub-muksitulziad-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -113,20 +106,6 @@ Beyond planetary rovers, my project experience spans autonomous drones, multi-ag
 
 ---
 
-## Open Source and Collaboration
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Engineering &amp; Code Standards</strong>
-      <p>
-        I aim to publish software that others can understand, reproduce, and evaluate. Substantial repositories include clear contribution statements, setup instructions, test conditions, and documented limitations—crediting collaborators and upstream work while distinguishing reproductions from original findings.
-      </p>
-      <p>
-        I am currently organizing a public <code>robotics-research-library</code> for reusable modules and technical notes, alongside standalone repositories as full system documentation matures.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Collaboration &amp; Contact</strong>
-      <p>
-        I welcome technical discussions with engineers, students, and researchers working on planetary rovers, aerial autonomy
+
+
