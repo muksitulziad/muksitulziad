@@ -4,10 +4,11 @@
 
 <p>
   <strong>Robotics Software &amp; Systems · Autonomous Ground &amp; Aerial Robots</strong><br>
-  Software Team Lead, Mars Rover Team · <strong>AIUB Robotics Crew</strong><br>
+  Software Team Lead,
+  <a href="https://www.aiubroboticcrew.com/mars-rover"><strong>Mars Rover Team</strong></a>
+  · <strong>AIUB Robotics Crew</strong><br>
   American International University-Bangladesh (AIUB)
 </p>
-
 
 <p>
   
