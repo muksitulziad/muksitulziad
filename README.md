@@ -104,7 +104,18 @@ Beyond planetary rovers, my project experience spans autonomous drones, multi-ag
 | **Interfaces & Electronics** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Multisim](https://img.shields.io/badge/Multisim-006845?style=flat-square) ![Proteus](https://img.shields.io/badge/Proteus-184A83?style=flat-square) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B31B1B?style=flat-square) |
 
 
+---
 
+## Contact Me
+
+<p>
+  <a href="https://www.facebook.com/share/1daJoqWcEZ/">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&amp;utm_medium=copy_link&amp;utm_content=q3q5vlu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 
 
