@@ -8,13 +8,7 @@
   American International University-Bangladesh (AIUB)
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Gazebo-E66B0B?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/ArduPilot-264C3B?style=flat-square" alt="ArduPilot" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
+
 
 </div>
 
