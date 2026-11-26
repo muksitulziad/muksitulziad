@@ -53,20 +53,15 @@ As **Software Team Lead for the Mars Rover Team at AIUB Robotics Crew**, I archi
 
 - **Research Directions:** Reliable field autonomy under uncertain sensing, decentralized multi-robot systems, edge-deployed perception (`TensorRT` / `ONNX`), and reproducible sim-to-real evaluation.
 
----
-
 ## Engineering Toolkit
 
-| Domain | Stack |
+| Domain | Technologies & Platforms |
 | :--- | :--- |
-| **Languages** | `C++` · `Python` · `Java` · `MATLAB` · `SQL` |
-| **Robotics & Sim** | `ROS 2` · `Gazebo` · `ArduPilot` · `Nav2` · `SLAM Toolbox` · `RTAB-Map` · `TF2` · `RViz2` |
-| **Perception & AI** | `OpenCV` · `YOLO` · `TensorRT` · `PyTorch` · `ONNX` · `GStreamer` · `WebRTC` |
-| **Edge & Embedded** | `NVIDIA Jetson Orin Nano` · `ESP32` · `STM32` · `Arduino` · `micro-ROS` |
-| **Dev & Hardware** | `Linux` · `Git` · `Docker` · `CMake` · `GitHub Actions` · `EasyEDA` · `Cadence Virtuoso` |
-
----
-
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Robotics & Sim** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-E66B0B?style=flat-square&logo=gazebo&logoColor=white) ![ArduPilot](https://img.shields.io/badge/ArduPilot-264C3B?style=flat-square) ![Nav2](https://img.shields.io/badge/Nav2-0B7285?style=flat-square) ![SLAM Toolbox](https://img.shields.io/badge/SLAM_Toolbox-1E293B?style=flat-square) ![RTAB-Map](https://img.shields.io/badge/RTAB--Map-334155?style=flat-square) ![TF2](https://img.shields.io/badge/TF2-4353A3?style=flat-square) ![RViz2](https://img.shields.io/badge/RViz2-304E80?style=flat-square) |
+| **Perception & AI** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-D9381E?style=flat-square) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
+| **Edge & Embedded** | ![NVIDIA Jetson Orin Nano](https://img.shields.io/badge/NVIDIA_Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![micro-ROS](https://img.shields.io/badge/micro--ROS-22314E?style=flat-square&logo=ros&logoColor=white) |
+| **Dev & Hardware** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-B31B1B?style=flat-square) |
 ## Connect
 
 <p>
