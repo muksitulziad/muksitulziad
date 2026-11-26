@@ -99,7 +99,8 @@ As **Software Team Lead for the Mars Rover Team at AIUB Robotics Crew**, I archi
     </td>
   </tr>
 </table>
-## Connect
+
+Connect
 
 <p>
   <a href="https://www.aiubroboticcrew.com/mars-rover">
