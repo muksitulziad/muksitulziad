@@ -45,7 +45,6 @@ As **Software Team Lead for the Mars Rover Team at AIUB Robotics Crew**, I archi
   </tr>
 </table>
 
-- **Research Directions:** Reliable field autonomy under uncertain sensing, decentralized multi-robot systems, edge-deployed perception (`TensorRT` / `ONNX`), and reproducible sim-to-real evaluation.
 
 ## Engineering Toolkit
 
